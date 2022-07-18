@@ -18,7 +18,7 @@ My first program was a tool written in C# when I was 16 (my nickname was BuiZuo9
 
 I went to the Academy of Cryptography Techniques, where I learned to become a **Security Engineer**. Here, I publish my very first paper with my teacher, Mr. Tung, to [Tạp chí Nghiên cứu Khoa học và Công nghệ quân sự (JMST)](https://www.jmst.info)
 
-[You can find my paper here](assets/paper/masked-aes-paper.pdf)
+[You can find my paper here](assets/paper/masked_aes_friem.pdf)
 
 ### My very first steps as a Engineer...
 ... was joined one of the most known **Cyber Security** companies in Vietnam. Here, I was playing as a **Cyber Security Consultant**, **Solution Engineer**, **Security Engineer**, and **Software Developer**.
